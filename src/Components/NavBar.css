@@ -1,0 +1,4 @@
+.NavbarRow {
+    display:flex; 
+    flex-direction:row;
+}

@@ -1,0 +1,39 @@
+.container {
+    position: relative;
+    text-align: center;
+
+}
+
+#opacity {
+    background-color: black;
+    opacity: 0.2;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#description {
+    position: absolute;
+    top: %;
+    transform: translate(-0%, -50%);
+    color: white; 
+    font-family: "Francois One"; 
+    font-weight: 300; 
+    font-size: 2.8vmin;
+    max-height: 200px; 
+}
+
+#title {
+    color: white; 
+    font-family: "Rubik"; 
+    font-weight: 1000; 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 7vmin;
+
+}
+
+
